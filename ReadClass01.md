@@ -21,3 +21,5 @@
 ### Mutable data types, such as lists, dictionaries, and sets, allow modifications to the value of a variable, which modifies the value in the same memory location.
 
 ### On the other hand, immutable data types, such as integers, floats, booleans, and strings, do not allow modifications to the value of a variable. Any operation that appears to modify the value of an immutable data type actually creates a new value in a new memory location, and the variable now points to that new location.
+
+## Things I want to know more about
