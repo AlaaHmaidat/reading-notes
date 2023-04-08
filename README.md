@@ -17,3 +17,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Data Structures and Algorithm                           |   [README](./Data%20Structures%20and%20Algorithms/README.md)                                                |
 | Engineering Readings                                    |    [README](./Engineering%20Readings/README.md)  |
 | Mindset                                                 |    [README](./Mindset/README.md)  |
+| The Command Line                                        |    [README](./The%20Command%20Line/README.md)  |
