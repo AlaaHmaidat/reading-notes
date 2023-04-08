@@ -1,0 +1,6 @@
+# Mindset
+Two types of mindsets shape our approach to life: growth and fixed mindsets. Adopting a growth mindset is crucial for achieving success. Embracing the belief that our intelligence and personality can be developed rather than being fixed and immutable can have significant implications for our lives. Our perception of ourselves can impact our entire outlook. If we subscribe to the fixed mindset, we are more likely to seek validation of our inherent traits and are less open to learning from our mistakes. Successful people also possess the ability to transform life's challenges into future accomplishments, a skill linked to the growth mindset. According to creativity researchers, perseverance and resilience are the essential ingredients for creative achievement and can be honed through a growth mindset. Failure can still be a painful experience in the growth mindset, but it is not defining; rather, it is viewed as a problem to be tackled, faced, and learned from.
+
+![](../img/The%20Growth%20Mindset.jpg) 
+
+## Things I want to know more about
