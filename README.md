@@ -13,5 +13,6 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | -----------                                             | -----------                                  |
 | Pain and Suffering, Big O,Names and Values in Python    |   [README](./ReadClass01/README.md)          |
 | Testing and Modules                                     |   [README](./ReadClass02/README.md)          |
+| SQL Practice                                            |   [README](./SQL%20Practice/README.md)          |
 
 
