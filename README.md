@@ -15,4 +15,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Testing and Modules                                     |   [README](./ReadClass02/README.md)             |
 | SQL Practice                                            |   [README](./SQL%20Practice/README.md)          |
 | Data Structures and Algorithm                           |   [README](./Data%20Structures%20and%20Algorithms/README.md)    |
-
+| Engineering Readings                                    |   [README](./Engineering%20Readings/README.md)          |
