@@ -19,3 +19,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Mindset                                                 |    [README](./Mindset/README.md)  |
 | The Command Line                                        |    [README](./The%20Command%20Line/README.md)  |
 | FileIO & Exceptions                                     |    [README](./FileIO%20%26%20Exceptions/README.md)  |
+| Classes and Objects                                       |    [README](./Classes%20and%20Objects/README.md)  |
