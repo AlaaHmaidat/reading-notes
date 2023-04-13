@@ -14,32 +14,59 @@ A linked list is a linear data structure, in which the elements are not stored a
 Following are the 6 steps to add a node at the end.
 
 ```python
-# This function is defined in Linked List class
-# Appends a new node at the end. This method is
-# defined inside LinkedList class shown above
+# Define the Node class
+class Node:
+  
+    # Constructor to initialize the node object
+    def __init__(self, data):
+        self.data = data  # Assign data
+        self.next = None  # Initialize next as null
+  
+# Define the LinkedList class
+class LinkedList:
+  
+    # Constructor to initialize the head of the linked list
+    def __init__(self):
+        self.head = None
+  
+    # This method appends a new node at the end of the linked list
+    def append(self, new_data):
+        
+        # Create a new node with the given data
+        new_node = Node(new_data)
 
+        # If the linked list is empty, make the new node the head
+        if self.head is None:
+            self.head = new_node
+            return
 
-def append(self, new_data):
+        # Traverse the linked list to find the last node
+        last = self.head
+        while last.next:
+            last = last.next
 
-		# 1. Create a new node
-		# 2. Put in the data
-		# 3. Set next as None
-		new_node = Node(new_data)
+        # Change the next of the last node to the new node
+        last.next = new_node
+  
+    # This method prints the linked list starting from the head
+    def printList(self):
+        temp = self.head
+        while temp:
+            print(temp.data)
+            temp = temp.next
 
-		# 4. If the Linked List is empty, then make the
-		# new node as head
-		if self.head is None:
-			self.head = new_node
-			return
+# Example usage:
+if __name__ == '__main__':
+    # Create a new linked list object
+    llist = LinkedList()
 
-		# 5. Else traverse till the last node
-		last = self.head
-		while (last.next):
-			last = last.next
+    # Add nodes to the linked list
+    llist.append(1)
+    llist.append(2)
+    llist.append(3)
 
-		# 6. Change the next of last node
-		last.next = new_node
-
+    # Print the contents of the linked list
+    llist.printList()
 ```
 ## Types of linked lists
 
