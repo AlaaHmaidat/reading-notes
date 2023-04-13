@@ -63,3 +63,5 @@ This means that the time it takes to access an element in a linked list is propo
 
 On the other hand, in an array, you can access an element directly by its index because the elements are stored contiguously in memory. Therefore, the time complexity of accessing an element in an array is constant, or O(1), regardless of the size of the array.
 
+
+## Things I want to know more about
