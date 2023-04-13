@@ -41,6 +41,19 @@ def append(self, new_data):
 		last.next = new_node
 
 ```
+## Types of linked lists
+
+### There are three types of linked lists: singly, doubly and circular
+
+1. A singly linked list is a linear data structure in which the elements are not stored in contiguous memory locations and each element is connected only to its next element using a pointer
+
+2. A doubly linked list is a complex type of linked list in which a node contains a pointer to the previous as well as the next node in the sequence. Therefore, in a doubly linked list, a node consists of three parts: node data, pointer to the next node in sequence (next pointer) , pointer to the previous node (previous pointer).
+
+![](../img/linked%20list%20-%20singly%20and%20doubly.png) 
+
+3. A circular linked list is a type of linked list in which the first and the last nodes are also connected to each other to form a circle.
+
+![](../img/circular%20linked%20list.png)
 
 ## Big O
 
