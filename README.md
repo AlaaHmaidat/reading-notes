@@ -14,11 +14,12 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Pain and Suffering, Big O,Names and Values in Python    |   [README](./ReadClass01/README.md)             |
 | Testing and Modules                                     |   [README](./ReadClass02/README.md)             |
 | SQL Practice                                            |   [README](./SQL%20Practice/README.md)          |
-| Data Structures and Algorithm                           |   [README](./Data%20Structures%20and%20Algorithms/README.md)  |
+| Data Structures and Algorithm               |   [README](./Data%20Structures%20and%20Algorithms/README.md)  |
 | Engineering Readings                                    |    [README](./Engineering%20Readings/README.md)  |
 | Mindset                                                 |    [README](./Mindset/README.md)  |
 | The Command Line                                        |    [README](./The%20Command%20Line/README.md)  |
-| FileIO & Exceptions                                     |    [README](./FileIO%20%26%20Exceptions/README.md)  |
-| Classes and Objects                                       |    [README](./Classes%20and%20Objects/README.md)  |
+| FileIO & Exceptions                              |    [README](./FileIO%20%26%20Exceptions/README.md)  |
+| Classes and Objects                               |    [README](./Classes%20and%20Objects/README.md)  |
 | Linked Lists                                       |    [README](./Linked%20Lists/README.md)  |
-| Python Random Test Coverage What is Risk Analysis                                       |    [README](./Python%20Random/README.md)  |
+| Python Random Test Coverage What is Risk Analysis   |    [README](./Python%20Random/README.md)  |
+| Ten Thousand & Python Scope                           |    [README](./The%20Command%20Line/README.md)  |
