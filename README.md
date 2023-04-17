@@ -22,4 +22,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Classes and Objects                               |    [README](./Classes%20and%20Objects/README.md)  |
 | Linked Lists                                       |    [README](./Linked%20Lists/README.md)  |
 | Python Random Test Coverage What is Risk Analysis   |    [README](./Python%20Random/README.md)  |
-| Ten Thousand & Python Scope                           |    [README](./The%20Command%20Line/README.md)  |
+| Ten Thousand & Python Scope              |    [README](./Ten%20Thousand%20%26%20Python%20Scope/README.md)  |

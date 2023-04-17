@@ -123,5 +123,6 @@ def count(amount):
 
     return count_
 ```
-
+### *Resources:*
+[Rolling Dice Examples](https://artofproblemsolving.com/wiki/index.php/Basic_Programming_With_Python#Program_Example_1_3)
 ## Things I want to know more about
