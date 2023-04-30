@@ -74,7 +74,7 @@ print(say_whee())
 # Something is happening after the function is called.
 ```
 ### Code tracking:
-![](https://drive.google.com/file/d/1uB1tpjw9VNRBcqaTaXA4sdYWSkdrWCe3/view?usp=share_link)
+[Code tracking](https://drive.google.com/file/d/1uB1tpjw9VNRBcqaTaXA4sdYWSkdrWCe3/view?usp=share_link)
 
 ### Example 2:
 ```python
