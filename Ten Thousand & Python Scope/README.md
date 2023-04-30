@@ -6,6 +6,10 @@
 
 ### Example of Global Variable
 
+
+https://user-images.githubusercontent.com/92573516/235347127-e9dcfe33-5610-47b6-b07d-68a716dbeaf3.mp4
+
+
 ```python
 # global variable
 a = 15
