@@ -105,6 +105,9 @@ If you try to call say_whee() after bedtime, nothing will happen.(decorator only
 
 Decorators can serve to shorten code, speed up code, and completely change the way that code acts in Python
 
+### *Resources:*
+[Primer on Decorators](https://realpython.com/primer-on-python-decorators/)
+
 ## Things I want to know more about
 
 Debugging with PySnooper
