@@ -23,3 +23,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Linked Lists                                       |    [README](./Linked%20Lists/README.md)  |
 | Python Random Test Coverage What is Risk Analysis   |    [README](./Python%20Random/README.md)  |
 | Ten Thousand & Python Scope              |    [README](./Ten%20Thousand%20%26%20Python%20Scope/README.md)  |
+| List Comprehensions & Primer on Decorators |    [README](./%20List%20Comprehensions%20%26%20Primer%20on%20Decorators/README.md)  |
