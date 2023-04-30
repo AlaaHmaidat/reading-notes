@@ -74,8 +74,10 @@ print(say_whee())
 # Something is happening after the function is called.
 ```
 ### Code tracking:
-[Example 1](https://drive.google.com/file/d/1uB1tpjw9VNRBcqaTaXA4sdYWSkdrWCe3/view?usp=share_link)
+<!-- [Example 1](https://drive.google.com/file/d/1uB1tpjw9VNRBcqaTaXA4sdYWSkdrWCe3/view?usp=share_link) -->
 
+<video src="https://drive.google.com/file/d/1uB1tpjw9VNRBcqaTaXA4sdYWSkdrWCe3/view?usp=share_link" controls="controls" style="max-width: 730px;">
+</video>
 ### Example 2:
 ```python
 from datetime import datetime
