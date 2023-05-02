@@ -7,13 +7,13 @@ These are commonly used for operator overloading.
 Few examples for magic methods are:
 __init__, __str__, __repr__, __len__ etc.
 
-__init__: This is a special method that is called when a new object is created from a class. It is used to initialize the object's attributes and set its initial state. This method is called with the self parameter, which refers to the object being created.
+* __init__: This is a special method that is called when a new object is created from a class. It is used to initialize the object's attributes and set its initial state. This method is called with the self parameter, which refers to the object being created.
 
-__str__: This is another special method that is called when the str() function is called on an object, or when the object is used in a context where a string representation is needed (such as in a print statement). It should return a human-readable string representation of the object.
+* __str__: This is another special method that is called when the str() function is called on an object, or when the object is used in a context where a string representation is needed (such as in a print statement). It should return a human-readable string representation of the object.
 
-__repr__: This is a special method that is called when the repr() function is called on an object, or when the object is used in a context where a printable representation is needed (such as in a debugger). It should return a string that, when evaluated, would create an object with the same state as the original object.
+* __repr__: This is a special method that is called when the repr() function is called on an object, or when the object is used in a context where a printable representation is needed (such as in a debugger). It should return a string that, when evaluated, would create an object with the same state as the original object.
 
-__len__: This is a special method that is called when the len() function is called on an object. It should return the number of items in the object, if it is a sequence or collection.
+* __len__: This is a special method that is called when the len() function is called on an object. It should return the number of items in the object, if it is a sequence or collection.
 
 ### Example:
 ```python 
