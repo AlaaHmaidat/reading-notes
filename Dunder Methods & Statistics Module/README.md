@@ -80,8 +80,3 @@ print(mode) # output: 3
 [Statistics Module](https://docs.python.org/3/library/statistics.html) 
 [Statistics - Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 ## Things I want to know more about
-
-Debugging with PySnooper
-
-### *Resources:*
-[Debugging with PySnooper](https://www.pythonpodcast.com/pysnooper-python-debugging-episode-241/)
