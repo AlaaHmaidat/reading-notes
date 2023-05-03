@@ -25,3 +25,5 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Ten Thousand & Python Scope              |    [README](./Ten%20Thousand%20%26%20Python%20Scope/README.md)  |
 | List Comprehensions & Primer on Decorators |    [README](./%20List%20Comprehensions%20%26%20Primer%20on%20Decorators/README.md)  |
 | Dunder Methods & Statistics Module     |[README](./Dunder%20Methods%20%26%20Statistics%20Module/README.md)  |
+| Stacks and Queues     |[README](./Stacks%20and%20Queues/README.md)  |
+
