@@ -239,3 +239,4 @@ ALGORITHM isEmpty()
 
 return front = NULL
 ```
+## Things I want to know more about
