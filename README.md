@@ -28,3 +28,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Stacks and Queues     |[README](./Stacks%20and%20Queues/README.md)  |
 | What is Jupyter Lab     |[README](./Jupyter%20Lab%20/README.md)  |
 | Pandas    |[README](./Pandas/README.md)  |
+| Regression in Python    |[README](./Regression%20in%20Python/README.md)  |
