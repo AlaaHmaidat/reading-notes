@@ -148,8 +148,11 @@ These functions offer a variety of options and parameters to customize the appea
 
 ### *Resources:*
 [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial)
+
 [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
-[Bokeh Tutorial](hhttps://hub.ovh2.mybinder.org/user/bokeh-bokeh-notebooks-nd3nw6a5/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
+
+[Bokeh Tutorial](https://hub.ovh2.mybinder.org/user/bokeh-bokeh-notebooks-ethlvh8t/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
+
 [Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 
 ## Things I want to know more about
