@@ -30,3 +30,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Pandas                                                  |    [README](./Pandas/README.md)                  |
 | Regression in Python                                    |    [README](./Regression%20in%20Python/README.md)                                                                                                          |
 | Data Visualization                                      |    [README](./Data%20Visualization/README.md)    |
+| Trees                                                   |    [README](./Trees/README.md)    |

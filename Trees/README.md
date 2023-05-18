@@ -1,0 +1,1 @@
+What is a Tree Data Structure in Python? A Tree is a Data structure in which data items are connected using references in a hierarchical manner. Each Tree consists of a root node from which we can access each element of the tree.
