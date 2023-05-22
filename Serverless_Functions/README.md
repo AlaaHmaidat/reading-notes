@@ -47,3 +47,4 @@ else:
     print("Request failed with status code:", response.status_code)
 ```
 In this example, the get method from the requests library is used to send a GET request to the specified URL. The response is stored in the response variable. By checking the status code, you can determine if the request was successful (status code 200) or encountered an error. If successful, you can access the response content, assuming it's in JSON format, using the json method.
+## Things I want to know more about
