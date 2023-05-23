@@ -31,4 +31,5 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Regression in Python                                    |    [README](./Regression%20in%20Python/README.md)                                                                                                          |
 | Data Visualization                                      |    [README](./Data%20Visualization/README.md)    |
 | Trees                                                   |    [README](./Trees/README.md)    |
-| Serverless Functions                                                   |    [README](./Serverless_Functions/README.md)    |
+| Serverless Functions                                    |    [README](./Serverless_Functions/README.md)    |
+| Web Scraping                                            |    [README](./Web%20Scraping/README.md)    |
