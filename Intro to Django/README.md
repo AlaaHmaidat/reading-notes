@@ -32,3 +32,5 @@ Tailwind CSS:
 Bootstrap CSS:
 - Purpose: Opinionated CSS framework with pre-designed components.
 - Styling Approach: Use pre-defined CSS classes and HTML markup for consistent styles.
+
+## Things I want to know more about
