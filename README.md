@@ -35,3 +35,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Web Scraping                                            |    [README](./Web%20Scraping/README.md)    |
 | Cryptography                                           |    [README](./Cryptography/README.md)    |
 | Automation                                           |    [README](./Automation/README.md)    |
+| Intro to Django                                           |    [README](./Intro%20to%20Django/README.md)    |
