@@ -36,4 +36,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Cryptography                                            |    [README](./Cryptography/README.md)            |
 | Automation                                              |    [README](./Automation/README.md)              |
 | Intro to Django                                         |    [README](./Intro%20to%20Django/README.md)     |
-| Django Models                                           |    [README](./Intro%20to%20Django/README.md)     |
+| Django Models                                           |    [README](./Django%20Models/README.md)     |
