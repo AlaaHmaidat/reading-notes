@@ -20,14 +20,10 @@ See Also: For a more in-depth tour of Jupyter Notebooks and the Classic Jupyter 
 Kernels
 Jupyter kernels allow you to use Jupyter interfaces and tools with any programming language.
 
-### *Resources:*
-[What is Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
-
 # What are the main functionalities provided by the NumPy library, and how can it be useful in Python programming, particularly for scientific computing and data manipulation tasks?
 NumPy is a Python library that provides efficient and fast array operations, a wide range of mathematical functions, and array manipulation functionalities. It is useful for scientific computing and data manipulation tasks because of its efficiency, mathematical functions, ease of integration with other libraries, and community-driven development. It is an essential library for anyone working with numerical data in Python.
 
-### *Resources:*
-[NumPy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
+
 # Explain the basic structure and properties of NumPy arrays, and provide examples of how to create, manipulate, and perform operations on them.
 NumPy is a library for numerical computing in Python that provides a powerful data structure called ndarray (short for "n-dimensional array") that is optimized for numerical operations. The ndarray is a grid of values, all of the same type, that is indexed by a tuple of non-negative integers. In other words, it's a collection of elements that can be accessed and manipulated using a single set of indices.
 
@@ -84,6 +80,15 @@ b = np.array([[5, 6], [7, 8]])
 c = np.dot(a, b)
 print(c)  # Output: [[19, 22], [43, 50]]
 ```
+### *Resources:*
+**Reading**
+
+[What is Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+
+[NumPy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
+
+**Bookmark and Review**
 
 [Numpy Arrays](https://www.tutorialspoint.com/numpy/index.htm)
+
 ## Things I want to know more about

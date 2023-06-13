@@ -109,4 +109,11 @@ root.print_tree()
 #A
 #  B
 ```
+### *Resources:*
+
+**Reading**
+
+[Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+
+
 ## Things I want to know more about

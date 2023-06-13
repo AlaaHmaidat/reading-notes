@@ -48,4 +48,31 @@ else:
 ```
 In this example, the get method from the requests library is used to send a GET request to the specified URL. The response is stored in the response variable. By checking the status code, you can determine if the request was successful (status code 200) or encountered an error. If successful, you can access the response content, assuming it's in JSON format, using the json method.
 
+### *Resources:*
+
+**Reading**
+
+[What is Serverless Computing?](https://www.ibm.com/cloud/learn/serverless)
+
+**Additional Resources**
+
+[venv - Creation of Virtual Environments](https://docs.python.org/3/library/venv.html)
+
+[Vercel - Get Started](https://vercel.com/docs/get-started)
+
+[http.server](https://pymotw.com/3/http.server/index.html)
+
+[Requests](https://requests.readthedocs.io/en/latest/)
+
+[Python & APIs](https://realpython.com/python-api/)
+
+**Videos**
+
+[What is Serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
+
+**Bookmark and Review**
+[Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
+
+[Effective Python Environment](https://realpython.com/effective-python-environment/)
+
 ## Things I want to know more about
