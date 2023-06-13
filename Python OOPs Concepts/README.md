@@ -19,7 +19,7 @@ A class is a collection of objects. A class contains the blueprints or the proto
     - Attributes are always public and can be accessed using the dot (.) operator. **Eg.: Myclass.Myattribute**
 
 
-## Example 1:
+### Example 1:
 ```python
 class ClassName:
    # Statement-1
@@ -33,7 +33,7 @@ class ClassName:
 Objects are entities with state and behavior. They can be real-world items like a mouse or a keyboard, or even numbers and strings. Objects store data and perform actions. They're everywhere in programming!
 
 
-## Example 2:
+### Example 2:
 ```python
 # Define a class called Person
 class Person:
@@ -51,7 +51,7 @@ print(person1.age)   # Output: 25
 ```
 
 
-## Example 3:
+### Example 3:
 ```python
 # Define a class called Person
 class Person:
@@ -77,7 +77,7 @@ person1.greet()      # Output: Hello, my name is Alice. I am 25 years old.
 
 When defining methods in a class, the first parameter is typically named self. This parameter represents the instance of the class itself and allows us to refer to the object's attributes and call its methods.
 
-## Example 4:
+### Example 4:
 ```python 
 class Person:
     # name: object's attributes
@@ -101,7 +101,7 @@ A constructor is a special method in Python that is automatically called when an
 
 In Python, the constructor method is defined with the name __init__. It takes the self parameter as the first argument, followed by any additional parameters that you want to pass when creating an object.
 
-## Example 5:
+### Example 5:
 ```python
 # Define a class called Person
 class Person:
@@ -127,7 +127,7 @@ Inheritance is the capability of one class to derive or inherit the properties f
 
 - **Extensibility:** Inheritance enables extending the functionality of existing classes without modifying them. New features can be added through derived classes, promoting scalability and adaptability of the codebase.
 
-## Example 6:
+### Example 6:
 ```python
 # Base class
 class Shape:
@@ -154,7 +154,7 @@ circle.display()  # Output: This circle is blue.
 ## Python Polymorphism
 Polymorphism simply means having many forms. For example, we need to determine if the given species of birds fly or not, using polymorphism we can do this using a single function.
 
-## Example 7:
+### Example 7:
 ```python
 class Bird:
 
@@ -209,7 +209,7 @@ Encapsulation is achieved by using access modifiers, such as public, private, an
 
 3. Protected: Protected attributes and methods are intended to be accessed within the class itself and its subclasses. They are denoted by prefixing an attribute or method name with a single underscore (_).
 
-## Example 8:
+### Example 8:
 ```python
 class Car:
     def __init__(self, make, model, year):
@@ -255,7 +255,7 @@ my_car.display_details()      # Output: Make: Toyota, Model: Camry, Year: 2022
 ## Data Abstraction 
 Data abstraction is a fundamental concept in object-oriented programming that involves presenting essential information while hiding the implementation details. It allows us to focus on what an object does rather than how it does it. Abstraction helps in creating complex systems by breaking them down into simpler, more manageable components.
 
-## Example 9:
+### Example 9:
 ```python
 from abc import ABC, abstractmethod
 
