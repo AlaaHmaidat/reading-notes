@@ -33,4 +33,19 @@ Bootstrap CSS:
 - Purpose: Opinionated CSS framework with pre-designed components.
 - Styling Approach: Use pre-defined CSS classes and HTML markup for consistent styles.
 
+### *Resources:*
+[Getting started with Django](https://www.djangoproject.com/start/)
+
+[How Django Works Behind the Scenes](https://wsvincent.com/how-django-works-behind-the-scenes/)
+
+[What is Tailwind CSS?](https://blog.hubspot.com/website/what-is-tailwind-css)
+
+[What is Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
+
+[First Django App - Part 1](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
+
+[First Django App - Part 2](https://docs.djangoproject.com/en/4.1/intro/tutorial02/)
+
+[Tailwind CSS Django - Flowbite](https://flowbite.com/docs/getting-started/django/)
+
 ## Things I want to know more about

@@ -30,9 +30,10 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Pandas                                                  |    [README](./Pandas/README.md)                  |
 | Regression in Python                                    |    [README](./Regression%20in%20Python/README.md)                                                                                                          |
 | Data Visualization                                      |    [README](./Data%20Visualization/README.md)    |
-| Trees                                                   |    [README](./Trees/README.md)    |
+| Trees                                                   |    [README](./Trees/README.md)                   |
 | Serverless Functions                                    |    [README](./Serverless_Functions/README.md)    |
-| Web Scraping                                            |    [README](./Web%20Scraping/README.md)    |
-| Cryptography                                           |    [README](./Cryptography/README.md)    |
-| Automation                                           |    [README](./Automation/README.md)    |
-| Intro to Django                                           |    [README](./Intro%20to%20Django/README.md)    |
+| Web Scraping                                            |    [README](./Web%20Scraping/README.md)          |
+| Cryptography                                            |    [README](./Cryptography/README.md)            |
+| Automation                                              |    [README](./Automation/README.md)              |
+| Intro to Django                                         |    [README](./Intro%20to%20Django/README.md)     |
+| Django Models                                           |    [README](./Intro%20to%20Django/README.md)     |
