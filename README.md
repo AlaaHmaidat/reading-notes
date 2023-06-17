@@ -39,4 +39,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Django Models                                           |    [README](./Django%20Models/README.md)         |
 | Python OOPs Concepts                                    | [README](./Python%20OOPs%20Concepts/README.md)   |
 | Python Technical Questions                              | [README](./Python%20OOPs%20Concepts/README.md)   |
-| Django CRUD and Forms                                   | [README](./Python%20OOPs%20Concepts/README.md)   |
+| Django CRUD and Forms                                   | [README](./Django%20CRUD%20and%20Forms/README.md)|
