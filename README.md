@@ -41,3 +41,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Python Technical Questions                              | [README](./Python%20OOPs%20Concepts/README.md)   |
 | Django CRUD and Forms                                   | [README](./Django%20CRUD%20and%20Forms/README.md)|
 | Django Custom User & DjangoX                            | [README](./Django%20Custom%20User/README.md)     |
+| Hashtables                                              | [README](./Hashtables/README.md)                 |

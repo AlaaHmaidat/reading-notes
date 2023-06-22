@@ -157,6 +157,7 @@ And we're done! We can now run `makemigrations` and `migrate` for the first time
 
 DjangoX is a powerful Django-based framework that extends the functionality of Django, offering additional features and utilities to enhance the development experience.
 
+[DjangoX](https://github.com/wsvincent/djangox)
 
 ### Key Features
 
