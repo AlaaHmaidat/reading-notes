@@ -44,3 +44,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Hashtables                                              | [README](./Hashtables/README.md)                 |
 | Data structures in python                               | [README](./data%20structures/README.md)          |
 | Django REST Framework & Docker         | [README](./Django%20REST%20Framework%20%26%20Docker/README.md)    |
+| Permissions & Postgresql        | [README](./Permissions%20%26%20Postgresql/README.md)    |
