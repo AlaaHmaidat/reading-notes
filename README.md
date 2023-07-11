@@ -46,3 +46,4 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Django REST Framework & Docker         | [README](./Django%20REST%20Framework%20%26%20Docker/README.md)    |
 | Permissions & Postgresql        | [README](./Permissions%20%26%20Postgresql/README.md)    |
 | Authentication & Production Server        | [README](./Authentication%20%26%20Production%20Server/README.md)    |
+| API Deployment                       | [README](./API%20Deployment/README.md)    |
