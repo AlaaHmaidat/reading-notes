@@ -35,6 +35,7 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Hashtables                                              | [README](./Hashtables/README.md)                 |
 | Data structures in python                               | [README](./data%20structures/README.md)          |
 | Graphs                                                  | [README](./Graphs/README.md)                     |
+| DSA Review                                              | [README](./DSA%20Review/README.md)               |
 
 ### Django
 
