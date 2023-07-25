@@ -24,6 +24,7 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Python OOPs Concepts                                    | [README](./Python%20OOPs%20Concepts/README.md)   |
 | Python Technical Questions                              | [README](./Python%20Technical%20Questions/)      |
 | Readings: React 1                                       | [README](./Readings:%20React%201/README.md)      |
+| Readings: React 2                                       | [README](./Readings:%20React%202/README.md)      |
 | Readings: React 3                                       | [README](./Readings:%20React%203/README.md)      |
 
 
