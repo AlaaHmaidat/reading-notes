@@ -26,7 +26,7 @@ Keeping track of my learnings, one note at a time 📝 - My personal reading not
 | Readings: React 1                                       | [README](./Readings:%20React%201/README.md)      |
 | Readings: React 2                                       | [README](./Readings:%20React%202/README.md)      |
 | Readings: React 3                                       | [README](./Readings:%20React%203/README.md)      |
-
+| Readings: React 4                                       | [README](./Readings:%20React%204/README.md)      |
 
 
 ### Data Structures and Algorithms
